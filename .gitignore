@@ -1,1 +1,8 @@
+# models
 The Met/models/facebook/bart-large-mnli models/model.safetensors
+
+# large data
+Art Institute of Chicago/data/artworks_all_attributes.csv
+Art Institute of Chicago/data/art_of_chicago.csv
+Art Institute of Chicago/data/full_record.csv
+Art Institute of Chicago/artic-api-data.tar.bz2
