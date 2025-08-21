@@ -3,7 +3,9 @@
 </h1>
 
 <p align="center">
-    <img src="./imgs/logos.png" width="100%" alt="Logos">
+    <img src="./imgs/The_Metropolitan_Museum_of_Art_Logo.svg.png" width="20%" alt="The Met Logo">
+    <img src="./imgs/Museum_of_Fine_Arts_Boston_Logo-700x745-1.png" width="20%" alt="MFA, Boston Logo">
+    <img src="./imgs/Kaggle_Logo.svg.png" width="30%" alt="Kaggle Logo">
 </p>
 
 ## Project Overview
