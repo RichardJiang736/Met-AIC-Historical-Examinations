@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-    <img src="./public/imgs/The_Metropolitan_Museum_of_Art_Logo.svg.png" width="20%" alt="The Met Logo">
-    <img src="./public/imgs/Art_Institute_of_Chicago_logo.svg.png" width="20%" alt="Art Institute of Chicago Logo">
-    <img src="./public/imgs/Kaggle_Logo.svg.png" width="30%" alt="Kaggle Logo">
+    <img src="./public/imgs/The_Metropolitan_Museum_of_Art_Logo.svg.png" width="20%" alt="The Met Logo">&nbsp;&nbsp;&nbsp;
+    <img src="./public/imgs/Art_Institute_of_Chicago_logo.svg.png" width="20%" alt="Art Institute of Chicago Logo" style="margin-right: 30px;">&nbsp;&nbsp;&nbsp;
+    <img src="./public/imgs/Kaggle_Logo.svg.png" width="40%" alt="Kaggle Logo">
 </p>
 
 ## Project Overview
